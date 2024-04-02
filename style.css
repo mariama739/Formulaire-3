@@ -157,3 +157,20 @@ i{
         padding-right: 10%;
     }  
 }
+@media (min-width:801px) and (max-width:1200PX){
+.image, img{
+    height: 61rem;
+    }
+    .form{
+        height: 61rem;
+    }
+}
+@media (min-width:1201px) and (max-width:1700PX) {
+.image,
+    img {
+        height: 50rem;
+    }
+    .form {
+        height: 50rem;
+    }
+}
